@@ -2,7 +2,7 @@
 
 **WARNING** - This can mess up ubuntu if you upgrade all packages with the kali repo.
 
-### Installation
+### Setup
 
 ```bash
 git clone https://github.com/arianizadi/Kali-Tool-Installer
