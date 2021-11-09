@@ -1,6 +1,6 @@
 # Kali-Tool-Installer
 
-**WARNING** - This can mess up ubuntu if you upgrade all packages with the kali repo.
+**WARNING** - Ubuntu will self impode if all kali-repo packages are upgraded.
 
 ## Setup
 
