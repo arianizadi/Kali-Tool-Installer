@@ -36,6 +36,6 @@ sudo apt remove [pkg]
 ```bash
 sudo apt update
 ```
-Apt will sometimes show that packages must be upgraded, but they will not.
+apt will sometimes show that packages must be upgraded, but they will not.
 This is because they are from the kali repo and if they are upgraded they can cause issues.
 It is safer to keep ubuntu packages in priority.
