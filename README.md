@@ -2,7 +2,7 @@
 
 **WARNING** - This can mess up ubuntu if you upgrade all packages with the kali repo.
 
-### Setup
+## Setup
 
 ```bash
 git clone https://github.com/arianizadi/Kali-Tool-Installer
@@ -10,7 +10,7 @@ cd Kali-Tool-Installer
 chmod +x ./install.sh ./setup.sh
 sudo ./setup.sh
 ```
-### Install Package
+## Install Package
 
 ```bash
 # Usage
