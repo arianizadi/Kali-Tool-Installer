@@ -4,6 +4,10 @@
 
 ## Setup
 
+### Requirements
+- apt
+- gnupg
+
 ```bash
 git clone https://github.com/arianizadi/Kali-Tool-Installer
 cd Kali-Tool-Installer
