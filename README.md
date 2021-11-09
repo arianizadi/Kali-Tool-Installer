@@ -1,6 +1,8 @@
 # Kali-Tool-Installer
 
-**WARNING** - Ubuntu will self impode if all kali-repo packages are upgraded.
+**WARNING** - 
+1) Ubuntu will self impode if all kali-repo packages are upgraded.
+2) It is not best practice to install other distros repos and it will likely cause issues.
 
 ## Setup
 
