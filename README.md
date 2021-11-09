@@ -20,6 +20,13 @@ sudo ./install.sh [pkg]
 sudo ./install.sh hashid sqlmap
 ```
 
+## Remove Package
+
+```bash
+# No Change
+sudo apt remove [pkg]
+```
+
 ## Issues
 
 ```bash
